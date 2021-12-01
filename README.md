@@ -1,1 +1,1 @@
-# snakee
+# Snake-Game
